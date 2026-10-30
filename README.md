@@ -53,3 +53,6 @@ The following research publications provide the academic foundation and technica
 - Evaluates the proposed approaches using a self-recorded bus blind-spot dataset and the LISA vehicle dataset.
 
 **Relevance to VisionGuard:** This paper provides a foundation for understanding deep-learning-based vehicle detection, feature extraction, and blind-spot collision detection
+### Dataset
+- LISA Vehicle Detection Dataset: [Dataset Link]([http://cvrr.ucsd.edu/LISA/vehicledetection.html](https://www.kaggle.com/datasets/mbornoe/lisa-traffic-light-dataset))
+- 
